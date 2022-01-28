@@ -10,7 +10,6 @@ float perimeter(struct POINT, struct POINT, struct POINT);
 struct POINT {
     float x;
     float y;
-}
-
+};
 
 #endif //_POINT_H
